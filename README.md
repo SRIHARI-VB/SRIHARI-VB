@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Srihari V B (@SRIHARI-VB)
 
-- 🌱 I’m currently enhancing my skills in **ReactJS**, **TypeScript**, and **NestJS**.  
+- 🌱 I’m currently enhancing my skills in **ReactJS**, **TypeScript**, and **NextJS**.  
 - 💻 Passionate about **Frontend Development**, with experience in building responsive and user-friendly web applications.  
 - 🎨 Also interested in **UI/UX Design** and **Logo Design**.  
 - 🛠️ Skilled in **ReactJS**, **Tailwind CSS**, **JavaScript**, **Spring Boot**, and API integrations.  
